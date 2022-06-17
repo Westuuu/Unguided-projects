@@ -6,7 +6,7 @@ I started by importing data from CSV file. Once it was done I created a DataFram
 
 
 ## Things I learned:
-* Creating new columns of data based on the previous given data(Adding colors and marker sizes in this case)
+* Creating new columns of data based on the previous given data (Adding colors and marker sizes in this case)
 * How to include 3 types of data on 2 dimensional plot
 * How to express informations with 2 different markers on the same plot
 * Interpreting the plot
