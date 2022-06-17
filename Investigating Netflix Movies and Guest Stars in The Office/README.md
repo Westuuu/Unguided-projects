@@ -2,7 +2,7 @@
 
 The goal of this project is to draw conclusions with available data.
 
-I started by importing data from CSV file. Once it was done I created a DataFrame. I added another column with colors based on the ratings of each episode(Green - rated very high, red - rated very low). I moved on to adding another column to original DataFrame, but this time I included marker sizes that would be bigger for episodes with guests. I split the data between two DataFrames to distinquish episodes with and without guests. After that, I created a scatter plot where dots represent episodes without guests and stars represent episodes with guests. I noticed that past episode 130 viewership as well as rating began to drop. 
+I started by importing data from CSV file. Once it was done I created a DataFrame. I added another column with colors based on the ratings of each episode (Green - rated very high, red - rated very low). I moved on to adding another column to original DataFrame, but this time I included marker sizes that would be bigger for episodes with guests. I split the data between two DataFrames to distinquish episodes with and without guests. After that, I created a scatter plot where dots represent episodes without guests and stars represent episodes with guests. I noticed that past episode 130 viewership as well as rating began to drop. 
 
 
 ## Things I learned:
